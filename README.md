@@ -1,73 +1,44 @@
-# Ecxel_Sales_Dashboard_Project
+# Excel Sales Dashboard
 
-## Project Overview
+An executive summary and profitability dashboard built in Microsoft Excel. It turns a year of raw sales records into a one-page view of revenue, profit and costs that you can filter by product category, country and quarter.
 
-This project focuses on analyzing business sales and profitability data using Microsoft Excel. I developed an interactive Executive Summary and Profitability Dashboard to transform raw business data into meaningful insights and provide a clear overview of business performance.
+![Executive Summary & Profitability Dashboard](dashboard.png)
 
-The dashboard allows users to explore key performance indicators and analyze results across different product categories, countries, and quarters.
-
-## 📈 Key Performance Indicators
+## Headline figures
 
 | Metric | Result |
 |---|---:|
-| Total Revenue | $645,000 |
-| Gross Profit | $296,000 |
-| Gross Profit Margin | 46% |
-| Total Orders | 2,707 |
-| Units Sold | 6,698 |
+| Total revenue | $645,223 |
+| Gross profit | $296,384 |
+| Gross profit margin | 46% |
+| Cost of goods sold | $348,839 |
+| Total orders | 2,707 |
+| Units sold | 6,698 |
 
-## ✨ Dashboard Features
+## What the dashboard shows
 
-- **Executive Summary:** Presents an overview of important business performance indicators.
-- **Revenue Analysis:** Provides visibility into overall revenue performance.
-- **Profitability Analysis:** Highlights gross profit and gross profit margin.
-- **Interactive Filters:** Allows users to explore data by product category, country, and quarter.
-- **Dynamic Visualizations:** Uses Pivot Charts and interactive slicers to make data exploration easier.
+- **KPI cards** for revenue, gross profit, margin, units, orders and COGS.
+- **Monthly revenue and profit**, as a line chart across the year.
+- **Top five countries by revenue.**
+- **Revenue share by sales channel**: corporate, marketplace, online store and retail partners.
+- **Regional comparison** across Central, Northern, Southern and Western Europe.
+- **A map of revenue by country.**
+- **Slicers** for product category, country and quarter. Every chart and KPI updates when you change them.
 
-## 🛠️ Tools & Techniques
+Buttons at the top jump to the pivot tables and to the raw sales data.
 
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Analysis
-- Interactive Data Visualization
+## Built with
 
-## 📷 Project Preview
+Microsoft Excel: pivot tables, pivot charts, slicers and a map chart.
 
-### Executive Summary & Profitability Dashboard
+## How to open it
 
-_Add your dashboard screenshot here._
+Download `Excel Sales Dashboard_3.xlsx` and open it in Excel for Windows or Mac (Microsoft 365 or Excel 2019 and later). The map chart needs an internet connection to draw. Excel on the web can show the dashboard, but some slicer interactions are limited there.
 
-### Raw Dataset
+## What I learned
 
-_Add your raw dataset screenshot here._
-
-## 🎯 Project Objectives
-
-1. Analyze business revenue and profitability.
-2. Summarize important business performance metrics.
-3. Explore performance across different business dimensions.
-4. Build an interactive dashboard for easier data exploration.
-5. Present raw data in a structured and visually meaningful format.
-
-## 💡 Key Takeaway
-
-This project demonstrates how Microsoft Excel can be used to organize, analyze, and visualize business data. It also strengthened my understanding of profitability analysis, interactive reporting, and translating numerical data into useful business information.
-
-## 🚀 What's Next?
-
-I'm continuing to develop my data analytics skills and expanding my toolkit with:
-
-- SQL
-- Power BI
-- Python
-- Tableau
-
-More projects and practical applications coming soon!
+This project helped me practise profitability analysis and interactive reporting, and turning raw numbers into something a manager can read at a glance. Next, I'm working with SQL, Power BI, Python and Tableau.
 
 ---
 
 **Author:** Abia Iqbal
-
-**Project:** Excel Executive Summary & Profitability Dashboard
